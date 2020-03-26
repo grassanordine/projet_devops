@@ -1,1 +1,2 @@
-ceci est un fichier de test
+ajout de phrases dans text.txt
+ajout d'autres phrases dans text.txt

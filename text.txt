@@ -1,0 +1,2 @@
+ajout de phrases dans text.txt
+new file br2
